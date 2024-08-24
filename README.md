@@ -32,6 +32,6 @@ Welcome to my GitHub! I'm a passionate Full-Stack Web Developer and a Final-Year
 ## 📫 Let's Connect!
  - LinkedIn: https://www.linkedin.com/in/hung2026/
  - Email: ngominhhung208@gmail.com
- - Portfolio: ...
+ - Portfolio: (Coming Soon)
 
 Thank you for stopping by! I’m always open to collaboration and new opportunities. Let's build something amazing together!
