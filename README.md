@@ -1,4 +1,4 @@
-# 👋 Hello! I'm **Ngô Minh Hưng**
+# 👋 Hello! I'm **Hung Ngo Minh**
 
 Welcome to my GitHub! I'm a passionate Full-Stack Web Developer and a Final-Year Student at FPT University. With a strong foundation in both front-end and back-end technologies, I'm dedicated to building dynamic and user-friendly web applications.
 
