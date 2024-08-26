@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate Full-Stack Web Developer and a Final-Year
  - Long-Term: My goal is to become a Senior Software Engineer within the next three years, where I can leverage my technical expertise in software development to lead projects, mentor junior developers, and contribute to innovative solutions that drive business success.
    
 ## 🌟 Experience & Skills
- - Web Development: SQL, C#, React.js, CSS, HTML, REST, RESTful API
+ - Web Development: C#, JavaScript, Java, SQL, RESTful API, React.js, CSS, HTML.
  - Testing: Proficient in writing and automating test cases using CodeceptJS, Postman experienced with unit testing and integration testing to ensure code quality and reliability.
 
 ## 🛠 Projects
