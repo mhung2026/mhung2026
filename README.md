@@ -11,7 +11,7 @@ Dedicated to building robust, maintainable, and secure systems with a focus on *
 | Area | Focus |
 |------|-------|
 | **Backend Architecture** | RESTful APIs, Microservices, Event-Driven Systems, Clean & Hexagonal Architecture |
-| **Database Engineering** | PostgreSQL optimization, Advanced SQL, Data modeling, Query performance tuning |
+| **Database Engineering** | PostgreSQL & SQL Server optimization, Advanced SQL, Data modeling, Query performance tuning |
 | **Security & Auth** | JWT, OAuth2, RBAC, SAML, Row-Level Security (RLS), API security best practices |
 | **System Design** | Scalability, Caching strategies, Database replication, Performance profiling |
 | **Modern Tools & Practices** | CI/CD pipelines, Docker, AI-assisted development, API documentation, DevOps collaboration |
@@ -29,7 +29,7 @@ Dedicated to building robust, maintainable, and secure systems with a focus on *
 - Developed **20+ high-performance RESTful APIs** with comprehensive documentation and versioning
 
 **Database Architecture & Optimization**
-- Engineered complex **PostgreSQL databases** with normalized schemas supporting millions of records
+- Engineered complex **PostgreSQL & SQL Server databases** with normalized schemas supporting millions of records
 - Implemented advanced SQL patterns: CTEs, window functions, recursive queries, stored procedures
 - Achieved **40%+ query performance improvement** through indexing strategies and execution plan analysis
 - Designed data replication and backup strategies ensuring 99.9% uptime
@@ -82,6 +82,14 @@ Dedicated to building robust, maintainable, and secure systems with a focus on *
   - Transactions, ACID properties, isolation levels (READ COMMITTED, REPEATABLE READ, SERIALIZABLE)
   - Replication, backup strategies, point-in-time recovery
   - Full-text search, partitioning, and archival strategies
+- **SQL Server (Advanced)**
+  - T-SQL development and optimization
+  - Query execution plans and performance tuning
+  - Stored procedures, triggers, and functions
+  - Indexing strategies (B-tree, columnstore indexes)
+  - SQL Server Management Studio (SSMS) expertise
+  - Transaction management and locking strategies
+  - Database maintenance and monitoring
 - **Data Modeling**: Conceptual, logical, and physical data modeling
 - **Migration Management**: Schema versioning, zero-downtime migrations
 - **Performance Tuning**: Query analysis, index optimization, statistics collection
@@ -129,7 +137,7 @@ Dedicated to building robust, maintainable, and secure systems with a focus on *
 
 ## 🛠 Showcase Projects
 
-### 1. Scalable Backend API with PostgreSQL & Supabase
+### 1. Scalable Backend API with PostgreSQL & SQL Server
 
 A **production-ready backend API** demonstrating **enterprise-grade architecture**, **performance optimization**, and **security best practices**.
 
@@ -142,7 +150,7 @@ A **production-ready backend API** demonstrating **enterprise-grade architecture
 **Tech Stack**
 ```
 Backend:       ASP.NET Core 6+ | C# 10+
-Database:      PostgreSQL | Supabase | Redis
+Database:      PostgreSQL | SQL Server | Supabase | Redis
 Architecture:  Clean Architecture | Microservices patterns | Event-Driven
 Security:      JWT | OAuth2 | RBAC | RLS
 Testing:       xUnit | NUnit | Integration Tests
