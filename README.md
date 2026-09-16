@@ -14,7 +14,7 @@ Dedicated to building robust, maintainable, and secure systems with a focus on *
 | **Database Engineering** | PostgreSQL optimization, Advanced SQL, Data modeling, Query performance tuning |
 | **Security & Auth** | JWT, OAuth2, RBAC, SAML, Row-Level Security (RLS), API security best practices |
 | **System Design** | Scalability, Caching strategies, Database replication, Performance profiling |
-| **Modern Tools & Practices** | CI/CD pipelines, Docker, AI integration, API documentation, DevOps collaboration |
+| **Modern Tools & Practices** | CI/CD pipelines, Docker, AI-assisted development, API documentation, DevOps collaboration |
 
 ---
 
@@ -61,8 +61,9 @@ Dedicated to building robust, maintainable, and secure systems with a focus on *
 |----------|-------------|-----------|
 | **C# / ASP.NET Core** | ⭐⭐⭐⭐⭐ Expert | 2+ years in production systems |
 | **SQL** | ⭐⭐⭐⭐⭐ Expert | Advanced query optimization, stored procedures |
+| **TypeScript / Node.js** | ⭐⭐⭐⭐ Advanced | Backend APIs, full-stack development |
 | **Python** | ⭐⭐⭐ Advanced | Scripting, data processing, utilities |
-| **Java** | ⭐⭐⭐ Intermediate | Backend fundamentals, enterprise patterns |
+| **Golang** | ⭐⭐⭐ Intermediate | System tools, API development |
 
 ### Backend Engineering & Architecture
 - **API Design**: RESTful principles, API versioning, GraphQL fundamentals, OpenAPI/Swagger documentation
@@ -112,37 +113,33 @@ Dedicated to building robust, maintainable, and secure systems with a focus on *
 - **Code Quality**: Code review practices, refactoring, technical debt management
 - **Monitoring & Logging**: Centralized logging, application performance monitoring (APM), alerting
 
-### AI & Modern Tools Integration
-- **AI Assistance**: GitHub Copilot for code generation and productivity
-- **LLM Integration**: Prompt engineering, API integration with AI services
-- **Automation**: Workflow automation, intelligent system design
-- **Developer Tools**: Advanced IDE features, code analysis tools, productivity enhancement
+### AI-Assisted Development
+- **Claude (Primary AI Assistant)**: 
+  - Code generation, review, and optimization
+  - Architecture design and technical decision-making
+  - Complex problem-solving and debugging
+  - Documentation and knowledge synthesis
+  - System design and scaling discussions
+  - Learning and rapid skill development
+- **LLM Integration**: Prompt engineering, API integration with AI services for intelligent backend features
+- **AI Workflows**: Leveraging Claude for productivity, code quality enhancement, and accelerated development cycles
+- **Prompt Engineering**: Crafting effective prompts for complex technical problems, architectural discussions, and system design
 
 ---
 
-## 🛠 Showcase Project
+## 🛠 Showcase Projects
 
-### Scalable Backend API with PostgreSQL & Supabase
+### 1. Scalable Backend API with PostgreSQL & Supabase
 
 A **production-ready backend API** demonstrating **enterprise-grade architecture**, **performance optimization**, and **security best practices**.
 
-#### Architecture Highlights
+**Architecture Highlights**
 - **Microservices-ready design** with service boundaries and communication patterns
 - **Clean Architecture** with clear separation of concerns (Domain, Application, Infrastructure, Presentation)
 - **Async processing** for long-running operations and event handling
 - **Comprehensive error handling** with structured logging and monitoring
 
-#### Technical Implementation
-- **RESTful APIs** with versioning, pagination, filtering, and comprehensive documentation
-- **PostgreSQL database** with optimized queries, indexing strategies, and connection pooling
-- **Supabase integration** for authentication, authorization, and real-time features
-- **JWT/OAuth2 authentication** with multi-role authorization
-- **Caching layer** with Redis for performance optimization
-- **Unit and integration tests** with high code coverage
-- **CI/CD pipeline** for automated testing and deployment
-- **Docker containerization** for consistent deployment
-
-#### Tech Stack
+**Tech Stack**
 ```
 Backend:       ASP.NET Core 6+ | C# 10+
 Database:      PostgreSQL | Supabase | Redis
@@ -153,7 +150,28 @@ DevOps:        Docker | GitHub Actions | CI/CD
 Documentation: Swagger/OpenAPI | Architecture Docs
 ```
 
-> This project exemplifies **production-grade engineering practices** with focus on maintainability, scalability, and robustness.
+### 2. AI-Powered Development Tools
+Projects leveraging AI integration for intelligent backends and development workflows:
+- **ai-development-system**: AI-driven development platform
+- **code-review-graph**: Local knowledge graph for efficient code review assistance
+- **AISystemIntelligencePlatform**: Intelligent system architecture
+
+### 3. Integrations & Bridges
+Building bridges between different platforms and systems:
+- **zalo-tg**: Bidirectional message bridge between Zalo and Telegram (TypeScript/Node.js)
+- **Za-go**: Unofficial Zalo API for Golang
+- **zca-js**: Unofficial Zalo API for JavaScript
+- **vegabase**: Custom database solution (C#)
+- **vegabase-node**: Node.js implementation of vegabase
+
+### 4. Tooling & Utilities
+Developer tools and generators:
+- **db-report-generator**: Automated database report generation
+- **EfmlGen**: Entity Framework Core model generator
+- **EntityFrameworkCore.Generator**: EF Core code generation from existing databases
+- **GenSubtaskPM**: Project management subtask generation
+
+> These projects demonstrate **production-grade engineering**, **AI integration**, and **problem-solving across the stack**.
 
 ---
 
@@ -168,6 +186,7 @@ Documentation: Swagger/OpenAPI | Architecture Docs
 | **Team Mentoring** | 3+ junior developers upskilled in backend best practices |
 | **Codebase Quality** | 85%+ test coverage with CI/CD automation |
 | **Deployment Efficiency** | Zero-downtime deployments with automated pipeline |
+| **Open Source Contributions** | Multiple API libraries and developer tools |
 
 ---
 
@@ -181,6 +200,7 @@ Documentation: Swagger/OpenAPI | Architecture Docs
 | **Performance** | Measure, optimize, monitor; scalability built-in |
 | **Continuous Learning** | Stay current with industry trends and best practices |
 | **Team Collaboration** | Knowledge sharing, mentoring, architectural discussions |
+| **AI-Enhanced Development** | Leverage AI tools for better decision-making and productivity |
 
 ---
 
@@ -190,15 +210,18 @@ Documentation: Swagger/OpenAPI | Architecture Docs
 - Exploring emerging technologies and architectural patterns
 - Contributing to best practices in distributed systems and microservices
 - Staying proficient with modern tooling and development practices
+- Leveraging AI tools (Claude) for efficient problem-solving and accelerated learning
+- Building open-source tools for the developer community
 
 ---
 
 ## 📫 Connect & Collaborate
 
+- **Primary GitHub:** [github.com/hungngominh](https://github.com/hungngominh)
+- **Secondary GitHub:** [github.com/mhung2026](https://github.com/mhung2026)
 - **LinkedIn:** [linkedin.com/in/hung2026](https://www.linkedin.com/in/hung2026/)
-- **GitHub:** [github.com/mhung2026](https://github.com/mhung2026)
 - **Email:** ngominhhung208@gmail.com
 
 ---
 
-*Last Updated: September 2026 | Backend Engineer focusing on enterprise-grade systems*
+*Last Updated: September 2026 | Backend Engineer focusing on enterprise-grade systems and AI-enhanced development*
